@@ -1,9 +1,12 @@
 ---
-id: Acueille
+id: Accueil
 slug: /
 sidebar_position: 1
 ---
-    
+<>
+ <p align="center" ><img src="/img/samuelbarretlogo.png" alt="Alt text" title="title"  width="200" height="200"/></p>
+</>
+
 
 Salut, je suis Samuel (Alias TutoRapide sur internet), j’ai 22 ans, je suis né à l’île de la Réunion (974 pour les connaisseurs) sur une petite île située à côté de Madagascar.
 Je suis un passionné de l’informatique depuis mon plus jeune âge. J’ai fait mes premiers pas sur l’ordinateur à l'âge 6 ans. J'ai suivi une formation Technicien supérieur en réseaux informatiques et télécommunications en 2018 sur Toulouse.
