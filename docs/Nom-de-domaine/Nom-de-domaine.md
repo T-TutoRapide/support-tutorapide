@@ -1,6 +1,11 @@
 ---
 sidebar_position: 1
 title: Nom de domaine
+description: Un nom de domaine est un nom d'hôte qui est utilisé pour identifier un site internet.
+keywords:
+  - Nom de domaine
+  - Indentifiant internet
+  - Adresse IP
 ---
 
 :::info
