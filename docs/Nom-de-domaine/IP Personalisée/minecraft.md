@@ -51,10 +51,10 @@ Puis faites engregistrer.
   - Type: SRV
   - Nom: play
   - Service: _minecraft
-  - Protocols: _tcp
+  - Protocols: TCP
   - Durée TTL: Automatic
   - Priorité: 0
-  - Poid: 0
+  - Poids: 0
   - Port: 25565
   - Cible: play.votredomaine.com.
 
