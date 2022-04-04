@@ -1,6 +1,10 @@
 ---
 sidebar_position: 2
 title: TeamSpeak
+description: Création du ip personalisé pour son serveur TeamSpeak.
+tags:
+  - TeamSpeak
+  - ip personalisée
 ---
 
 Dans ce tutoriel je vais vous montrer comment avoir une ip personnalisée pour votre serveur TeamSpeak.

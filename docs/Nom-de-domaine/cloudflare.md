@@ -1,6 +1,10 @@
 ---
 sidebar_position: 2
 title: Cloudflare
+description: Ajouter son site au cdn de Cloudflare.
+tags:
+  - cloudflare
+  - CDN
 ---
 
 

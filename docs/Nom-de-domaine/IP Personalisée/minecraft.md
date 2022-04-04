@@ -1,6 +1,10 @@
 ---
 sidebar_position: 1
-title: Minecraft
+title: Minecraft?
+description: Création du ip personalisé pour son serveur minecraft.
+tags:
+  - minecraft
+  - ip personalisée
 ---
 Dans ce tutoriel je vais vous montrer comment avoir une ip personnalisée pour votre Minecraft.
 
