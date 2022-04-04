@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Minecraft?
+title: Minecraft
 description: Création du ip personalisé pour son serveur minecraft.
 tags:
   - minecraft
