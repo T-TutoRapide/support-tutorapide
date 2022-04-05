@@ -6,6 +6,8 @@ keywords:
   - Nom de domaine
   - Indentifiant internet
   - Adresse IP
+Author: Samuel*#7455 (Discord)
+pagination_prev: null
 ---
 
 :::info
@@ -80,3 +82,4 @@ Voiçi quelque exemple:<br/>
 1. Domaines de premier niveau des infrastructures. **ARPA** (pour Address and Routing Parameter Area)   
 &nbsp;&nbsp;&nbsp; Et un nom générique du domaine de premier niveau utilisé pour la gestion technique de l'infrastructure réseau d'internet.
         
+Dernière mise à jour le **05/04/2022** par **Samuel*#7455 (Discord)**

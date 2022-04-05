@@ -5,6 +5,7 @@ description: Ajouter son site au cdn de Cloudflare.
 tags:
   - cloudflare
   - CDN
+Author: Samuel*#7455 (Discord)
 ---
 
 
@@ -95,3 +96,4 @@ Le résulat une fois le domaine de valider.<br/>
 
 Félicitation vous avez fini le processus de configuration de votre domaine.<br/>
 
+Dernière mise à jour le **05/04/2022** par **Samuel*#7455 (Discord)**

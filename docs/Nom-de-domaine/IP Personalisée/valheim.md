@@ -5,6 +5,7 @@ description: Création du ip personalisé pour son serveur Valheim.
 tags:
   - Valheim
   - ip personalisée
+Author: Samuel*#7455 (Discord)
 ---
 
 Dans ce tutoriel je vais vous montrer comment avoir une ip personnalisée pour votre serveur Valheim.
@@ -65,3 +66,5 @@ Puis faites engregistrer.
   Puis faites engregistrer.
 
   La creation de votre ip pour votre serveur Valheim est terminé.
+
+  Dernière mise à jour le **05/04/2022** par **Samuel*#7455 (Discord)**

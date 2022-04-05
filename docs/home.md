@@ -2,6 +2,8 @@
 id: Accueil
 slug: /
 sidebar_position: 1
+Author: Samuel*#7455 (Discord)
+pagination_next: null
 ---
 <>
  <p align="center" ><img src="/img/samuelbarretlogo.png" alt="Alt text" title="title"  width="200" height="200"/></p>
@@ -20,3 +22,5 @@ Et mon aventure début à ce jour. De jours en jours j'essais de publier des vid
 A ceux jours la chaine compte environs **688 091** vues, et **3 382** personnes sui me suivent mes aventures.<br/>
 Vous pouvez me rejoindre sur mon serveur [Discord](https://discord.com/invite/YM9XTZP) , [Instagram](https://www.instagram.com/tutorapide/) et Snapchat.<br/>
 Retrouvez moi aussi sur [Github](https://github.com/T-TutoRapide/).<br/>
+
+Dernière mise à jour le **05/04/2022** par **Samuel*#7455 (Discord)**
