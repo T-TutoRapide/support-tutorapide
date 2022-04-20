@@ -6,7 +6,7 @@ Author: Samuel*#7455 (Discord)
 pagination_next: null
 ---
 <>
- <p align="center" ><img src="/img/samuelbarretlogo.png" alt="Alt text" title="title"  width="200" height="200"/></p>
+ <p align="center" ><img src="/img/tutorapide.png" alt="Alt text" title="title"  width="200" height="200"/></p>
 </>
 
 
