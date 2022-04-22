@@ -18,15 +18,15 @@ Toute aux long de ce tutoriel je vais utiliser Cloudflare, si vous ne savez comm
 
 :::note
 
-Avant de commencez je précise que les étapes suivante fonctionne si vous avez un VPS/Dedié.<br/>
-Si vous avez un serveur de jeux (pas de full access) le manipulation peuvent etre différente
+Avant de commencer, je précise que les étapes suivantes fonctionnent si vous avez un VPS/Dedié.<br/>
+Si vous avez un serveur de jeux (pas de full access) le manipulation peuvent être différente.
 
 :::
 
 
 ## IP personnalisée Valheim
 
-1. Rendez vous sur le dashboard de votre compte Cloudflare, et cliquer sur votre site.
+1. RRendez-vous sur le dashboard de votre compte Cloudflare, et cliquer sur votre site.
 
 ![](https://media.tutorapide.xyz/ihhkqqfqpa16.png)
 
@@ -34,9 +34,9 @@ Si vous avez un serveur de jeux (pas de full access) le manipulation peuvent etr
 
 ![](https://media.tutorapide.xyz/fl3fgbg6wn6o.png)
 
-Dans cette nouvelle étape nous crée 2 type de zone DNS, **A** et **SRV**.
+Dans cette nouvelle étape, nous allons créer 2 types de zone DNS, **A** et **SRV**.
 
-Dans la fenétre **Gestion DNS pour votresite.Com**. Cliquer sur **Ajouter un engregistrement**.
+Dans la fenêtre **Gestion DNS** pour votresite.Com. Cliquer sur **Ajouter un enregistrement**.
 
 3. Creation de la zone DNS **A**.
 
@@ -47,7 +47,7 @@ Dans la fenétre **Gestion DNS pour votresite.Com**. Cliquer sur **Ajouter un en
 
 ![](https://media.tutorapide.xyz/h3366rsaz8rr.png)
 
-Puis faites engregistrer.
+Puis faites enregistrer.
 
 4. Creation de la zone DNS **SRV**.
 
@@ -63,8 +63,8 @@ Puis faites engregistrer.
 
   ![](https://media.tutorapide.xyz/fb6mpljxgz6p.png)
 
-  Puis faites engregistrer.
+Puis faites enregistrer.
 
-  La creation de votre ip pour votre serveur Valheim est terminé.
+  La création de votre ip pour votre serveur Valheim est terminé.
 
   Dernière mise à jour le **05/04/2022** par **Samuel*#7455 (Discord)**

@@ -21,14 +21,14 @@ Une version vidéo est disponible.
 
 :::note
 
-Avant de commencez je précise que les étapes suivante fonctionne si vous avez un VPS/Dedié.<br/>
-Si vous avez un serveur de jeux (pas de full access) le manipulation peuvent etre différente
+Avant de commencer, je précise que les étapes suivantes fonctionnent si vous avez un VPS/Dedié.<br/>
+Si vous avez un serveur de jeux (pas de full access) le manipulation peuvent être différente.
 
 :::
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DM70XFo95oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Rendez vous sur le dashboard de votre compte Cloudflare, et cliquer sur votre site.
+1. Rendez-vous sur le dashboard de votre compte Cloudflare, et cliquer sur votre site.
 
 ![](https://media.tutorapide.xyz/ihhkqqfqpa16.png)
 
@@ -49,7 +49,7 @@ Dans la fenétre **Gestion DNS pour votresite.Com**. Cliquer sur **Ajouter un en
 
 ![](https://media.tutorapide.xyz/8mg8nl6k6162.png)
 
-Puis faites engregistrer.
+Puis faites enregistrer.
 
 4. Creation de la zone DNS **SRV**.
 
@@ -65,8 +65,8 @@ Puis faites engregistrer.
 
   ![](https://media.tutorapide.xyz/k5hfi53bctwm.png)
 
-  Puis faites engregistrer.
+Puis faites enregistrer.
 
-  La creation de votre ip pour votre serveur minecraft est terminé.
+  La création de votre ip pour votre serveur minecraft est terminé.
 
   Dernière mise à jour le **05/04/2022** par **Samuel*#7455 (Discord)**

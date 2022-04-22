@@ -52,7 +52,7 @@ Lors de votre premier connexion il vous sera demandé d'ajoutez votre premier si
 
 ![add_site](https://media.tutorapide.xyz/to7elxu8467e.png)
 
-Il vas vous demander de choisir un plan. Nous allons selecionner le plan **Free**.<br/>Et faite **Continue**.
+Il vas vous demandez de choisir un plan. Nous allons selecionner le plan **Free**.<br/>Et faite **Continue**.
 
 ![free-plan](https://media.tutorapide.xyz/dopkrtq331at.png)
 
@@ -69,20 +69,20 @@ Sois vous pouvez crée un zone DNS de type **A** avec l'ip de votre **serveur**.
 
 ![vide](https://media.tutorapide.xyz/w4weglt7hkl0.png)
 
-La parti la plus importante du processus est de changer les serveur DNS de **registra** de domaine par ceux de cloudflare.<br/>
-Pour ce faire vous allez devoir vous rendre sur le pannel de votre registra de domaine pour changer c'est dns.<br/>
-Vous allez touvez tout les informations que vous devrez renseignez chez votre registra sur la page suivate.<br/>
+La partie la plus importante du processus est de changer les serveure DNS de **registra** de domaine par ceux de cloudflare.<br/>
+Pour ce faire vous allez devoir vous rendre sur le panel de votre registra de domaine pour changer c'est dns.<br/>
+Vous allez touver toutes les informations que vous devrez renseigner chez votre registra sur la page suivante.<br/>
 ![](https://media.tutorapide.xyz/xhtrfnrkhqtz.png)
 
-La ou vous avez marquez **Remove the following nameservers**.<br/> Il s'agit des serveurs DNS de votre registra de domaine.<br/>Que vous allez devoir remplacer par ceux de **Cloudflare** qui ce trouve juste au dessous.<br/>
+La ou vous avez marquer **Remove the following nameservers**.<br/> Il s'agit des serveurs DNS de votre registra de domaine.<br/>Que vous allez devoir remplacer par ceux de **Cloudflare** qui se trouve juste au dessous.<br/>
 
-Une fois que vous avez modifier les serveur DNS vous devriez avoir quelque chose qui resemble a ceci :
+Une fois que vous avez modifié les serveurs DNS vous devriez avoir quelque chose qui ressemble à ceci :
 
 ![registra_domaine](https://media.tutorapide.xyz/qwwd1o2cotxp.png)
 
 Une fois que vous avez fait ceci, cliquer sur **Done, check nameservers**.<br/>
 
-Une nouvelle page s'affiche , vous pouvez si vous les souhaitez cliquer que le bouton **Configuration Recommendations**, sinon faite **Skip Recommendations**.<br/>
+Une nouvelle page s'affiche, vous pouvez si vous les souhaitez cliquer que le bouton **Configuration Recommendations**, sinon faite **Skip Recommendations**.<br/>
 
 Une fois que vous avez fait votre choix, vous allez arriver sur la page suivante.<br/>
 
@@ -90,10 +90,10 @@ Une fois que vous avez fait votre choix, vous allez arriver sur la page suivante
 
 Une fois vos DNS de valider vous recevez un email de confirmation.<br/>
 
-Le résulat une fois le domaine de valider.<br/>
+Le résultat une fois le domaine de valider.<br/>
 
 ![valide](https://media.tutorapide.xyz/pupmuk9xf60k.png)
 
-Félicitation vous avez fini le processus de configuration de votre domaine.<br/>
+Félicitations vous avez fini le processus de configuration de votre domaine.<br/>
 
 Dernière mise à jour le **05/04/2022** par **Samuel*#7455 (Discord)**
