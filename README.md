@@ -2,7 +2,9 @@
 
 Le support est gratuit et sans engagement.😅
 
-Vous pouvez accéder au support en cliquant sur le lien suivant: https://support.tutoriarapide.xyz/
+Vous pouvez accéder au support en cliquant sur le lien suivant: https://support.tutorapide.xyz/
+
+Vous n'avez pas besoin de savoir faire du développement pour participer. Tout le site est basé sur du **[Markdown](https://github.com/markdown-it)**.
 
 #### Comment participer au développement du site ?
 
